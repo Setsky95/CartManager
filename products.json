@@ -1,0 +1,13 @@
+[
+  {
+    "id": 5,
+    "title": "Indoor Bike 500th",
+    "description": "the best home-bike ever",
+    "code": "500th",
+    "price": 25084,
+    "stock": 524,
+    "category": "bikes",
+    "thumbnails": {},
+    "status": true
+  }
+]
